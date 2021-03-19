@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/bottom_nav_dashboard"
+        android:title="Produk"
+        android:icon="@drawable/bottom_nav_dashboard_icon"
+        app:cnb_backgroundColor="#FA4A0C"/>
+
+    <item
+        android:id="@+id/bottom_nav_manage"
+        android:title="Sewa"
+        android:icon="@drawable/bottom_nav_manage_icon"
+        app:cnb_backgroundColor="#FA4A0C"/>
+
+    <item
+        android:id="@+id/bottom_nav_profile"
+        android:title="Profil"
+        android:icon="@drawable/bottom_nav_profile_icon"
+        app:cnb_backgroundColor="#FA4A0C"/>
+</menu>
