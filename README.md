@@ -1,4 +1,8 @@
-<img align="center" width="150" src="https://github.com/memorezasabana/Fragment_ViewModel/blob/master/new_final_logo.png">
+<p align="center">
+  <a <code><img width="150" src="https://github.com/memorezasabana/Fragment_ViewModel/blob/master/new_final_logo.png"></code>
+  </a>
+</p>
+
 
 # Fragment Communication using ViewModel
 
